@@ -1,0 +1,5 @@
+integrate
+=====================
+
+.. raw:: html
+   :file: html/examples/integrate.html
